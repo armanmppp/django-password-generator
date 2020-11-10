@@ -1,0 +1,12 @@
+table{
+    border:1px solid #000;
+}
+
+td,th{
+    padding:10px;
+    margin:100px;
+}
+
+input[type="submit"]{
+    width:100%;
+}
